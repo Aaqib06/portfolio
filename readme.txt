@@ -48,7 +48,7 @@ crediting obligation. If that's your case, you can always send us a
 credit removal fee of 10 USD through Paypal. This will allow you to use the 
 template attribution/credit link free on ONE DOMAIN name. 
 
-You can send your payments through Paypal to this address: ealigam@gmail.com
+You can send your payments through Paypal to this address: aqibbashir136@gmail.com
 
 If possible, kindly send us the site's url where the template is being used. 
 Also, keep your Paypal receipt as proof of payment and your good to go.
@@ -65,8 +65,7 @@ If you have minimum web development experience, you can easily modify the templa
 However, If you're still new to HTML and CSS, I suggest that you visit the 
 following tutorials:
 
- - http://tutsplus.com/course/30-days-to-learn-html-and-css/
- - http://code.tutsplus.com/series/web-development-from-scratch--net-19995
+ 
 
 These will teach you the essentials of HTML and CSS. In addition, if you want to include
 jQuery in your skill-set, you can also check out these tutorials: 
